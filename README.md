@@ -4,7 +4,7 @@ Phonebook is a simple project built in C where you can save the Infos of a perso
 
 ## Some Snaps
 ### 01. Password Page
-![Front](/snaps/front.JPG)
+![Front](Phonebook/snaps/front.JPG)
 
 ### 02. Main Page
-![Main](/snaps/main.JPG)
+![Main](Phonebook/snaps/main.JPG)
